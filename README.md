@@ -1,3 +1,3 @@
 # Assembly-calculator
 
-En miniräknare som jag har gjort i assembly. Tanken med den var bara att testa vad jag kunde göra med assembly efter att ha läst en introduktionsbok till det, utan att läsa på några algoritmer eller så.
+Version 2 of my assembly calculator. This version should (when it is finished) be able to handle floating point numbers, I'm aiming for double precision floats at the moment but we'll see about that.
